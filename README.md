@@ -26,7 +26,7 @@ Blog tecnico self-hosted realizzato con PHP nativo e MariaDB/MySQL. Include una 
 ### 1. Clona il progetto
 
 ```bash
-git clone https://github.com/TUO-USERNAME/blog-vito.git
+git clone https://github.com/dosmaker/blog-vito.git
 cd blog-vito
 ```
 
