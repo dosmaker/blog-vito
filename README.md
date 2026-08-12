@@ -1,6 +1,7 @@
 # Blog Vito
 
-Blog tecnico self-hosted realizzato con PHP nativo e MariaDB/MySQL. Include una homepage pubblica, categorie, commenti, un pannello di amministrazione e un editor visuale per i post.
+Blog tecnico self-hosted realizzato con PHP nativo e MariaDB/MySQL in vibe coding.
+Include una homepage pubblica, categorie, commenti, un pannello di amministrazione e un editor visuale per i post.
 
 ## Funzionalità
 
