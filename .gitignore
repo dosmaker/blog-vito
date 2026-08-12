@@ -1,0 +1,33 @@
+# Ignora file di configurazione locale
+config.local.php
+
+# Ignora file .env (contiene credenziali)
+.env
+.env.*
+!.env.example
+
+# Ignora cartella upload immagini
+uploads/*
+!uploads/.gitkeep
+
+# Ignora file di sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Ignora backup
+backups/
+*.sql.gz
+*.sql.zip
+
+# Ignora file IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Ignora file temporanei
+tmp/
+temp/
+cache/
